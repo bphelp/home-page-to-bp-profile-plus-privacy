@@ -20,7 +20,7 @@ all logged out visitors from viewing all WP/BP/bbPress posts
 and pages with exception of the home page. Once logged out 
 the user is redirected back to the home page. When logged
 out, all attempts at viewing anything other than the home
-pages results in the visitor being redirected back to the
+page results in the visitor being redirected back to the
 home page.
  
 If both of these settings are checked then all WP/BP/bbPress 
@@ -28,7 +28,7 @@ posts and pages will be private with the exception of the
 home page. Once logged in the user will be redirected to
 their profile and after they are logged out they will be
 redirected back to the home page. When logged out, all 
-attempts at viewing anything other than the home pages 
+attempts at viewing anything other than the home page 
 results in the visitor being redirected back to the home 
 page.
 
